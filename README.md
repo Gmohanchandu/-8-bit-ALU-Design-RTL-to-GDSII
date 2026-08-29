@@ -26,7 +26,7 @@ Cadence Innovus Flow:
 • Post route 
 • Layout 
 
-1. Flooeplan: powerplan, Pin placement, decap addition
+1. Floorplan: powerplan, Pin placement, decap addition
    <img width="933" height="934" alt="image" src="https://github.com/user-attachments/assets/a27937a6-2418-430e-9b6b-c11106e3fee0" />
 
 2. Placement
